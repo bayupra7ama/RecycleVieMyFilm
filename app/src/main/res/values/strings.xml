@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">My Film</string>
+    <string name="film_name">films name</string>
+    <string name="title"> Judul Film </string>
+    <string name="name">Bayu Pratama Agus Kurniawan</string>
+    <string name="email">pra7amabayu@gmail.com</string>
+    <string name="dummy">dummy</string>
+    <string name="description">description</string>
+    <string name="content">COntent</string>
+    <string name="wathc_now">Tonton Sekarang</string>
+
+
+    <string-array name="data_name">
+        <item>Coco(2017)</item>
+        <item>Cruella(2021)</item>
+        <item>Ferrari(2023)</item>
+        <item>Interstellar(2014)</item>
+        <item>The Iron Clow(2023)</item>
+        <item>Joker</item>
+        <item>Migration(2023)</item>
+        <item>Poor Things(2023)</item>
+        <item>Wonka(2023)</item>
+        <item>Silent Night(2023)</item>
+        <item>Mulan(2020)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Jika kalian sedang mencari rekomendasi film barat seru dan bikin terenyuh,COCO bisa jadi jawabannya. Film animasi ini berkisah tentang perjalanan Miguel,seorang anak laki-laki yang penuh semangat dalam bermusik. Sayangnya, dia tinggalbersama keluarga yang melarang keras musik.Tak menyerah, dia pun berjuang meraih mimpinya hingga memasuki dunia kematian.Film yang kental dengan budaya Meksiko ini jelas menarik untuk diikuti.</item>
+        <item>CRUELLA menambah panjang deretan film Disney yang kemudian diproduksi versi action figure-nya.Adalah Emma Stone yang berperan sebagai sosok antagonis di salah satu film legendaris Disney ini.CRUELLA mengambil latar kota London di masa 1980-an.CRUELLA berfokus pada kisah hidup karakter ini semasa muda.Dari film ini, penonton akan dibawa untuk lebih mengenali sosok antagonisCruella secara lahir maupun batin. Penonton juga akan mengerti alasan mengapatokoh penjahat Disney yang sangat membenci anjing ras dalmatian, dan terobsesiuntuk menjadikan mantel bulu.</item>
+        <item>Dibesut oleh sutradara Michael Mann berdasarkan biografi Enzo Ferrari pada tahun 1991, Ferrari menggambarkan perjuangan pribadi dan profesional pendiri Ferrari, Enzo Ferrari, pada musim panas 1957, dengan Adam Driver sebagai bintang utamanya. Produksi film bioskop terbaru ini melibatkan perjalanan panjang sejak konsepnya dipertimbangkan pada tahun 2000, Bunda, hingga akhirnya syuting utama dimulai pada Agustus 2022 di Italia.Premier di Venezia International Film Festival, Ferrari menuai respon positif, meskipun terdapat kritik terhadap beberapa penampilan artinya. Dengan bumbu dramatis dan spektakuler, serta sinematografi yang memanjakan mata, Ferrari menjadi salah satu film bioskop terbaru yang dijamin mampu menarik perhatian Bunda, menghadirkan potret hidup Enzo Ferrari yang kompleks dan penuh tantangan.</item>
+        <item>Bicara soal rekomendasi film barat seru, INTERSTELLAR juga menjadi salah satu pilihan yang tak boleh dilewatkan. Film garapan Christopher Nolan ini berkisah tentang Cooper (Matthew McConaughey), seorang pilot NASA yang tinggal di rumah sederhana bersama putrinya, Murph.Cooper bertugas untuk menjalankan misi ke luar angkasa untuk mencari planet baru yang dapat dihuni manusia. Film epik Sci-fi ini jelas menarik bagi para penggemar cerita fiksi ilmiah.</item>
+        <item>Disutradarai oleh Sean Durkin, The Iron Claw bercerita tentang kehidupan pegulat Kevin Von Erich dan keluarganya, Bunda. Kisah film bioskop terbaru ini berpusat pada keluarga Von Erich, dinasti pegulat profesional dari Texas yang sukses besar pada tahun 1980-an, namun harus menghadapi "Von Erich curse". Alhasil, serangkaian tragedi personal yang tak tertahankan pun terjadi di luar ring.Dibintangi Zac Efron sebagai Sang Pegulat, The Iron Claw menuai sejumlah reaksi positif dari penonton awal, menyoroti transformasi fisik ekstrim para pemeran utama, terutama Zac Efron dan Jeremy Allen White.</item>
+        <item> Film yang begitu populer pada masa penayangannya ini berkisah tentang Joker, salah satu karakter dari DC Universe yang terkenal sebagai saingan Batman. Secara garis besar film ini menceritakan perjalanan Arthur Fleck yang kemudian menjadi Joker, jauh sebelum menjadi rival abadi Batman.Dikisahkan bahwa Arthur tinggal bersama ibunya yang rapuh, tanpa ayah, dan merasa kesepian. Sebab tak pernah merasakan bahagia Arthur menjadikan dirinya sebagai Joker, tokoh yang menciptakan kekacauan di kota Gotham. Penonton akan diajak melihat dunia berdasarkan perspektif Joker.</item>
+        <item>Datang dari rumah produksi Illumination yang terkenal dengan trilogi Despicable Me, Migration mengikuti keluargase itik yang mencoba meyakinkan ayahnya yang protektif untuk bermigrasi dari New England hingga Jamaica. Disutradarai oleh Benjamin Renner, film bioskop terbaru ini premier di VIEW Conference, Italia, pada Oktober 2023 lalu.Bertabur artis-artis papan atas, para karakter di film bioskop terbaru Hollywood ini disuarai oleh Kumail Nanjiani, Elizabeth Banks, Awkwafina, dan lainnya. Sebagai penulis skenario, Mike White menjanjikan elemen komedi yang tidak receh ke dalam cerita yang berpusat pada tema pertumbuhan.</item>
+        <item>Merupakan film terobosan lainnya dari sutradara Yorgos Lanthimos, Poor Things adalah film bioskop Hollywood terbaru yang menggabungkan elemen komedi gelap dan fantasi surealisme. Dibintangi oleh artis-artis A-Lister seperti Emma Stone, Mark Ruffalo, dan Willem Dafoe, film ini menceritakan kisah Bella Baxter, seorang gadis Victoria yang dibangkitkan kembali.</item>
+        <item>Disutradarai oleh Paul King, Wonka mengisahkan perjalanan karakter ikonik Willy Wonka, diperankan oleh Timothee Chalamet, dari penjual cokelat hingga menjadi pebisnis eksentrik yang genius. Dengan ensemble pemeran yang gemilang, termasuk Calah Lane, Keegan-Michael Key, dan Hugh Grant, Wonka adalah film bioskop terbaru yang cocok Bunda tonton bersama Si Kecil dan mengenalkan karakter ikonik ini.</item>
+        <item>Digarap oleh John Woo, Silent Night menghadirkan pengalaman unik dengan menggabungkan genre action-thriller tanpa dialog, Bunda. Rilis pada 1 Desember 2023, film bioskop terbaru Hollywood ini menampilkan Joel Kinnaman sebagai Brian Godlock, seorang tukang listrik yang kehilangan suara dan putranya dalam baku tembak antar geng pada Malam Natal. Dalam film ini, ia melakukan balas dendam terhadap para anggota geng.</item>
+        <item>Setelah resmi rilis, MULAN langsung menjadi salah satu rekomendasi film 2020 yang tidak boleh dilewatkan. Film ini berkisah tentang keberanian seorang gadis bernama Hua Mulan yang hidup di era dinasti Utara dan Selatan (240-589 Masehi). Dalam diri Mulan tersimpan jiwa seorang kesatria. Sayangnya karena terlahir sebagai perempuan dan dibesarkan di keluarga yang kolot, Mulan di tentang untuk terjun ke pertempuran.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/coco2017filmm</item>
+        <item>@drawable/cruella_2021_film_poster</item>
+        <item>@drawable/ferrari</item>
+        <item>@drawable/interstellar2014filmm</item>
+        <item>@drawable/iron_clow</item>
+        <item>@drawable/joker2019film</item>
+        <item>@drawable/migration</item>
+        <item>@drawable/poor_thing</item>
+        <item>@drawable/wonka</item>
+        <item>@drawable/silent_night</item>
+        <item>@drawable/mulan</item>
+
+    </integer-array>
+</resources>
